@@ -32,10 +32,12 @@ body{
     color: aquamarine;
 }
 
+/*FOOTER*/
+
+.footer--copyright{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
 
 
-
-/*h1{
-    color:white;
-    
-}*/
